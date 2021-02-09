@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-13T18:36:40 EST" name="Surefire suite" finished-at="2020-12-13T18:36:40 EST" duration-ms="54">
+    <groups>
+    </groups>
+    <test started-at="2020-12-13T18:36:40 EST" name="Surefire test" finished-at="2020-12-13T18:36:40 EST" duration-ms="54">
+      <class name="seleniumtutorial.Mavenjava.RestAPITest">
+        <test-method signature="postJira()[pri:0, instance:seleniumtutorial.Mavenjava.RestAPITest@49c43f4e]" started-at="2020-12-13T18:36:40 EST" name="postJira" finished-at="2020-12-13T18:36:40 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+        <test-method signature="deleteTwitter()[pri:0, instance:seleniumtutorial.Mavenjava.RestAPITest@49c43f4e]" started-at="2020-12-13T18:36:40 EST" name="deleteTwitter" finished-at="2020-12-13T18:36:40 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+      </class> <!-- seleniumtutorial.Mavenjava.RestAPITest -->
+      <class name="seleniumtutorial.Mavenjava.AppiumTest">
+        <test-method signature="IOSApps()[pri:0, instance:seleniumtutorial.Mavenjava.AppiumTest@799d4f69]" started-at="2020-12-13T18:36:40 EST" name="IOSApps" finished-at="2020-12-13T18:36:40 EST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method signature="NativeappAnroid()[pri:0, instance:seleniumtutorial.Mavenjava.AppiumTest@799d4f69]" started-at="2020-12-13T18:36:40 EST" name="NativeappAnroid" finished-at="2020-12-13T18:36:40 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeappAnroid -->
+      </class> <!-- seleniumtutorial.Mavenjava.AppiumTest -->
+      <class name="seleniumtutorial.Mavenjava.seliniumTest">
+        <test-method signature="BrowserAutomation()[pri:0, instance:seleniumtutorial.Mavenjava.seliniumTest@290dbf45]" started-at="2020-12-13T18:36:40 EST" name="BrowserAutomation" finished-at="2020-12-13T18:36:40 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method signature="elementUI()[pri:0, instance:seleniumtutorial.Mavenjava.seliniumTest@290dbf45]" started-at="2020-12-13T18:36:40 EST" name="elementUI" finished-at="2020-12-13T18:36:40 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUI -->
+      </class> <!-- seleniumtutorial.Mavenjava.seliniumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
