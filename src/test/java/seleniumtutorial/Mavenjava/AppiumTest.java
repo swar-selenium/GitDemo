@@ -8,6 +8,7 @@ public class AppiumTest {
 	public void NativeappAnroid()
 	{
 		System.out.println("NativeappAnroid");
+		System.out.println("Jira Testing1");
 		
 	}
 	
@@ -15,6 +16,7 @@ public class AppiumTest {
 	public void IOSApps()
 	{
 		System.out.println("IOSApps");
+		System.out.println("Jira Testing2");
 		
 	}
 }

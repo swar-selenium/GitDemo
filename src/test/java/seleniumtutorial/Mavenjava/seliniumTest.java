@@ -9,6 +9,7 @@ public class seliniumTest {
 	public void BrowserAutomation()
 	{
 		System.out.println("BrowserAutomation");
+		System.out.println("Jira Testing3");
 		
 	}
 	
