@@ -9,6 +9,7 @@ public class AppiumTest {
 	{
 		System.out.println("NativeappAnroid");
 		System.out.println("Jira Testing1");
+		System.out.println("Git branching example");
 		
 	}
 	
@@ -17,6 +18,8 @@ public class AppiumTest {
 	{
 		System.out.println("IOSApps");
 		System.out.println("Jira Testing2");
+		System.out.println("Git branching example");
+		
 		
 	}
 }
