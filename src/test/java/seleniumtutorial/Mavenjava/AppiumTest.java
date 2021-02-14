@@ -10,6 +10,7 @@ public class AppiumTest {
 		System.out.println("NativeappAnroid");
 		System.out.println("Jira Testing1");
 		System.out.println("Git branching example");
+		System.out.println("GitX branching example");
 		
 	}
 	

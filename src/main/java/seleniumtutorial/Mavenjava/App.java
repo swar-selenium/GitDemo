@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "Git test" );
+        System.out.println( "Gitx test changes" );
     }
 }
